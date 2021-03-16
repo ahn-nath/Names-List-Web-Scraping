@@ -67,14 +67,11 @@ def fill_names_dict(url, gender):
         
         dict_out[culture] = link  
 
-
-    """
     # get names of each page
     for culture_key, val in dict_out.items():
         dict_out[culture_key] = get_all_names(val)
         print(dict_out[culture_key]) # debug
    
-    """
     return dict_out 
 
 
