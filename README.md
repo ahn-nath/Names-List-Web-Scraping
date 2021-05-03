@@ -7,8 +7,11 @@ Websites:
 
 ## Tech
 [Python](https://www.python.org/) - an interpreted high-level general-purpose programming language.
+
 [Selenium](https://selenium-python.readthedocs.io/) - a portable framework for automating web applications. 
+
 [Jupyter Notebook](https://jupyter.org/) –  a web-based interactive computational environment for creating Jupyter notebook documents. 
+
 ## Install
 Clone this project
 ```
