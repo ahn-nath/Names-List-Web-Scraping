@@ -1,4 +1,4 @@
-# Names List Web Scrapper
+# Names List Web Scraper
 The project uses Selenium and Python to extract ‘given names’ from two web sites and save the list of names as Excel files. 
 
 Websites: 
